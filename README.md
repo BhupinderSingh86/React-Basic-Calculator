@@ -38,3 +38,7 @@ WA LA ✨ you have access to the calculator
 I have added single number buttons (Dumb components for now) on this calculator but they cannot be used for inputting values currently into the input tag, this is what I can implement as an improvement in due course.  
 
 # Deployed
+
+www.bhupinder-react-calculator.netlify.app
+
+![React calculator](https://user-images.githubusercontent.com/100348736/183307718-4f4212a9-8a1b-4348-96c1-605b0a30a566.jpg)
